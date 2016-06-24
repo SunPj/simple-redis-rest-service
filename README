@@ -1,4 +1,8 @@
 This is simple Play application that retrieves data from Redis
 =================================
 
-This file will be packaged with your application when using `activator dist`.
+To try it on you need to
+1. Clone this repo
+2. Genererate new application secret and set it in application.conf file
+3. Set up settings to connect to Redis in application.conf file
+3. Compile and run application
