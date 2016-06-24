@@ -1,0 +1,4 @@
+This is simple Play application that retrieves data from Redis
+=================================
+
+This file will be packaged with your application when using `activator dist`.
